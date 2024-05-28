@@ -19,5 +19,3 @@ python -m venv .
 source bin/activate
 python3 hangman.py
 ```
-
-Hopefully I don't have to type my password everytime I want to commit!
