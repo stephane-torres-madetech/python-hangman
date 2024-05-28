@@ -19,5 +19,4 @@ python -m venv .
 source bin/activate
 python3 hangman.py
 ```
-git has been a pain, is it because I changed my password?
 
